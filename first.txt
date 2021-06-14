@@ -1,5 +1,0 @@
-Hello Everyone, today I am learning to run commands on Ubuntu. 
-1. Initially we install Ubuntu.
-2. in Ubuntu there is one home directory under which there is one more directory Oreohome.
-3. command to make directory mkdir directory name.
-
